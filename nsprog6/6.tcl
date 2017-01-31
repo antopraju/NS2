@@ -1,5 +1,5 @@
 #Q6. Simulate an Ethernet LAN using n nodes (6-10), change error rate and data rate and compare throughput.
-#Create Simulator
+#Create simulator
 set ns [new Simulator]
 
 set error_rate 0.00
