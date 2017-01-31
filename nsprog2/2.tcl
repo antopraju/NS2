@@ -1,6 +1,6 @@
-/*
-2.Simulate the different types of internet traffic such as FTP and TELNET over network and analyze the throughput 
-*/
+
+#2.Simulate the different types of internet traffic such as FTP and TELNET over network and analyze the throughput 
+
 set ns [new Simulator]
 
 
