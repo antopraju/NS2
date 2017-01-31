@@ -1,3 +1,5 @@
+#5.Simulate an Ethernet LAN using n nodes and set multiple traffic nodes and determine collision across different nodes.
+
 #Lan simulation – mac.tcl
 set ns [new Simulator]
 
